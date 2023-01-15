@@ -146,17 +146,17 @@ line-height: 26px;
 }
 .f-d-heading{
     width: 464.1px;
-height: 106px;
+    height: 106px;
     font-weight: 700;
-font-size: 45px;
-line-height: 53px;
-border-right-style: solid orange 3px;
-padding-left: 100px;
+    font-size: 45px;
+    line-height: 53px;
+    border-right-style: solid orange 3px;
+    padding-left: 100px;
 }
 
 .f-d-para{
     width: 581.12px;
-height: 78px;
+    height: 78px;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
@@ -206,21 +206,18 @@ height: 78px;
 
     background: #FF900E;
     border-radius: 8px;
-border-radius: 5px;
-border: none;
-width: 339.15px;
-height: 200px;
-margin-left: 550px;
+    border-radius: 5px;
+    border: none;
+    width: 339.15px;
+    height: 200px;
+    margin-left: 550px;
 
 }
 .experi{
     font-weight: 700;
     font-size: 65px;
-    line-height: 70px;
-    
-    
-    text-align: center;
-    
+    line-height: 70px;   
+    text-align: center;   
     color: #FFFFFF;
 }
 /* Facts items */
@@ -233,8 +230,8 @@ margin-left: 550px;
 
 .facts-heading{
     font-weight: 700;
-font-size: 45px;
-line-height: 53px;
+    font-size: 45px;
+    line-height: 53px;
 }
 
 .facts-para{
@@ -243,7 +240,7 @@ line-height: 53px;
     line-height: 26px;
     color: #727272;
     width: 542px;
-height: 52px;
+    height: 52px;
 }
 
 
@@ -259,10 +256,10 @@ height: 52px;
 }
 .facts-item{
     width: 200px;
-height: 200px;
-border: 1px solid #FF900E;
-border-radius: 8px;
-margin-top: 75px;
+    height: 200px;
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+    margin-top: 75px;
 
 }
 .facts-item:hover{
@@ -271,10 +268,10 @@ margin-top: 75px;
 
 .facts-item-blocks{
     width: 169px;
-height: 136.22px;
-margin-top: 45px;
-margin-left: 35px;
-margin: auto;
+    height: 136.22px;
+    margin-top: 45px;
+    margin-left: 35px;
+    margin: auto;
 
 
 }
@@ -283,15 +280,7 @@ margin: auto;
 }
 
 
-/* .facts-img{
-    align-items: center;
-}
-.facts-heading{
-    text-align: center;
-}
-.facts-para{
-    text-align: center;
-} */
+
 /* sponser */
 
 .sponser{
@@ -309,16 +298,16 @@ margin: auto;
 }
 .sponser-headings{
     font-weight: 700;
-font-size: 45px;
-line-height: 53px;
+    font-size: 45px;
+    line-height: 53px;
 }
 
 .sponser-para{
     font-weight: 400;
-font-size: 16px;
-line-height: 26px;
-text-align: center;
-color: #727272;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
 }
 
 /* sponser item */
@@ -427,11 +416,11 @@ color: #727272;
 }
 .copy-para{
     font-weight: 400;
-font-size: 20px;
-line-height: 23px;
-text-align: center;
-color: #424242;
-padding-top: 40px;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #424242;
+    padding-top: 40px;
 
 }
 
