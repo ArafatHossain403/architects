@@ -144,8 +144,10 @@ line-height: 26px;
     font-weight: 700;
     font-size: 45px;
     line-height: 53px;
-    border-right-style: solid orange 3px;
-    padding-left: 100px;
+    margin-left: 10px;
+    border: 5px;
+    border-left-style: solid;
+    border-color: orange;
 }
 
 .f-d-para{
@@ -219,7 +221,7 @@ line-height: 26px;
 
 .facts{
     margin-top: 25px;
-    margin-left: 240px;
+    padding-left: 240px;
 }
 
 .facts-heading{
