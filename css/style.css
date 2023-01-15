@@ -88,9 +88,6 @@ border: none;
     
 
 }
-.feature-main{
-
-}
 .feature{
     
     display: flex;
@@ -131,9 +128,6 @@ line-height: 26px;
 }
 /* 2nd featrure */
 
-.deatils-part{
-
-}
 .feature-body{
     margin: auto;
     display: flex;   
@@ -273,9 +267,6 @@ line-height: 26px;
     margin-left: 35px;
     margin: auto;
 
-
-}
-.facts-note{
 
 }
 
