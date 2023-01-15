@@ -43,8 +43,8 @@ ul li a{
 }
 .heading-slogan{
     
-    width: 800px;
-    height: 225px;
+     width: 800px;
+     height: 225px;
      text-align: center;
      align-items: center;
      margin: auto;
@@ -52,29 +52,29 @@ ul li a{
 .slogan-head{
 
     font-weight: 700;
-font-size: 64px;
-line-height: 75px;
-text-align: center;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
 }
 
 .head-para{
     font-weight: 400;
-font-size: 16px;
-line-height: 26px;
+    font-size: 16px;
+    line-height: 26px;
 }
 .explore-btn{
     text-align: center;
 }
 .explore{
     width: 180px;
-height: 64px;
-margin-top: 35px;
-font-size: 20px;
-line-height: 26px;
-color: white;
-background-color:orange ;
-border-radius: 5px;
-border: none;
+    height: 64px;
+    margin-top: 35px;
+    font-size: 20px;
+    line-height: 26px;
+    color: white;
+    background-color:orange ;
+    border-radius: 5px;
+    border: none;
 }
 
 .header-image{
@@ -116,15 +116,15 @@ border: none;
     width: 468px;
     height: 106px;
     font-weight: 500;
-font-size: 45px;
-line-height: 53px;
-margin-bottom: 24px;
+    font-size: 45px;
+    line-height: 53px;
+    margin-bottom: 24px;
 
 }
 .feature-para{
     font-weight: 400;
-font-size: 16px;
-line-height: 26px;
+    font-size: 16px;
+    line-height: 26px;
 }
 /* 2nd featrure */
 
